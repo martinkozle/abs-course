@@ -183,7 +183,46 @@ class AlphaBetaAgent(MultiAgentSearchAgent):
         Returns the minimax action using self.depth and self.evaluationFunction
         """
         "*** YOUR CODE HERE ***"
-        util.raiseNotDefined()
+        return self.max_value(gameState, 0, 0, -float('inf'), float('inf'))[1]
+        # util.raiseNotDefined()
+    
+    def value(self, gameState, agentIndex, depth, alpha, beta):
+        if gameState.isWin() or gameState.isLose() or depth == self.depth:
+            return self.evaluationFunction(gameState)
+        if agentIndex == 0:
+            return self.max_value(gameState, agentIndex, depth, alpha, beta)[0]
+        else:
+            return self.min_value(gameState, agentIndex, depth, alpha, beta)[0]
+
+    def max_value(self, gameState, agentIndex, depth, alpha, beta):
+        val = float('-inf')
+        best_action = None
+        next_agent_index = (agentIndex + 1) % gameState.getNumAgents()
+        for action in gameState.getLegalActions(agentIndex):
+            successor_state = gameState.generateSuccessor(agentIndex, action)
+            v1 = self.value(successor_state, next_agent_index, depth + 1, alpha, beta)
+            if v1 > val:
+                val = v1
+                best_action = action
+                if val >= beta:
+                    break
+                alpha = max(alpha, val)
+        return val, best_action
+
+    def min_value(self, gameState, agentIndex, depth, alpha, beta):
+        val = float('inf')
+        best_action = None
+        next_agent_index = (agentIndex + 1) % gameState.getNumAgents()
+        for action in gameState.getLegalActions(agentIndex):
+            successor_state = gameState.generateSuccessor(agentIndex, action)
+            v1 = self.value(successor_state, next_agent_index, depth + 1, alpha, beta)
+            if v1 < val:
+                val = v1
+                best_action = action
+                if val <= alpha:
+                    break
+                beta = min(beta, val)
+        return val, best_action
 
 class ExpectimaxAgent(MultiAgentSearchAgent):
     """
