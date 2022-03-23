@@ -1,0 +1,25 @@
+Value iteration:
+
+Iterations: 50
+Discount factor: 0.5, Average steps: 13.0, Average reward: 0.6788367612779376
+Discount factor: 0.7, Average steps: 13.08, Average reward: 0.6677021458933226
+Discount factor: 0.9, Average steps: 13.0, Average reward: 0.6893577402989167
+Iterations: 100
+Discount factor: 0.5, Average steps: 13.39, Average reward: 0.6331146647470173
+Discount factor: 0.7, Average steps: 12.78, Average reward: 0.7184800322226786
+Discount factor: 0.9, Average steps: 13.16, Average reward: 0.6642058480734946
+
+Policy iteration:
+
+Iterations: 50
+Discount factor: 0.5, Average steps: 13.08, Average reward: 0.6828178733031671
+Discount factor: 0.7, Average steps: 13.18, Average reward: 0.6748991155902921
+Discount factor: 0.9, Average steps: 13.66, Average reward: 0.5828892773892775
+Iterations: 100
+Discount factor: 0.5, Average steps: 12.85, Average reward: 0.6884522658713834
+Discount factor: 0.7, Average steps: 13.26, Average reward: 0.6739234711367063
+Discount factor: 0.9, Average steps: 13.37, Average reward: 0.6216455848073491
+
+Conclusion:
+
+Value iteration gives better (lower) average steps for every discount factor, except for 0.5 at 100 iterations.
