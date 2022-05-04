@@ -1,0 +1,170 @@
+pygame 2.1.3.dev4 (SDL 2.0.20, Python 3.8.12)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+[1/56] discount_factor=0.5, learning_rate=0.1, episodes=10, iterations=50
+{'discount_factor': 0.5, 'learning_rate': 0.1, 'episodes': 10, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[2/56] discount_factor=0.5, learning_rate=0.1, episodes=10, iterations=100
+{'discount_factor': 0.5, 'learning_rate': 0.1, 'episodes': 10, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[3/56] discount_factor=0.5, learning_rate=0.1, episodes=50, iterations=50
+{'discount_factor': 0.5, 'learning_rate': 0.1, 'episodes': 50, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[4/56] discount_factor=0.5, learning_rate=0.1, episodes=50, iterations=100
+{'discount_factor': 0.5, 'learning_rate': 0.1, 'episodes': 50, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[5/56] discount_factor=0.5, learning_rate=0.1, episodes=100, iterations=50
+{'discount_factor': 0.5, 'learning_rate': 0.1, 'episodes': 100, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[6/56] discount_factor=0.5, learning_rate=0.1, episodes=100, iterations=100
+{'discount_factor': 0.5, 'learning_rate': 0.1, 'episodes': 100, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[7/56] discount_factor=0.5, learning_rate=0.1, episodes=500, iterations=50
+{'discount_factor': 0.5, 'learning_rate': 0.1, 'episodes': 500, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[8/56] discount_factor=0.5, learning_rate=0.1, episodes=500, iterations=100
+{'discount_factor': 0.5, 'learning_rate': 0.1, 'episodes': 500, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[9/56] discount_factor=0.5, learning_rate=0.1, episodes=1000, iterations=50
+{'discount_factor': 0.5, 'learning_rate': 0.1, 'episodes': 1000, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[10/56] discount_factor=0.5, learning_rate=0.1, episodes=1000, iterations=100
+{'discount_factor': 0.5, 'learning_rate': 0.1, 'episodes': 1000, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[11/56] discount_factor=0.5, learning_rate=0.1, episodes=5000, iterations=50
+{'discount_factor': 0.5, 'learning_rate': 0.1, 'episodes': 5000, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[12/56] discount_factor=0.5, learning_rate=0.1, episodes=5000, iterations=100
+{'discount_factor': 0.5, 'learning_rate': 0.1, 'episodes': 5000, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[13/56] discount_factor=0.5, learning_rate=0.1, episodes=10000, iterations=50
+{'discount_factor': 0.5, 'learning_rate': 0.1, 'episodes': 10000, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[14/56] discount_factor=0.5, learning_rate=0.1, episodes=10000, iterations=100
+{'discount_factor': 0.5, 'learning_rate': 0.1, 'episodes': 10000, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[15/56] discount_factor=0.5, learning_rate=0.01, episodes=10, iterations=50
+{'discount_factor': 0.5, 'learning_rate': 0.01, 'episodes': 10, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[16/56] discount_factor=0.5, learning_rate=0.01, episodes=10, iterations=100
+{'discount_factor': 0.5, 'learning_rate': 0.01, 'episodes': 10, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[17/56] discount_factor=0.5, learning_rate=0.01, episodes=50, iterations=50
+{'discount_factor': 0.5, 'learning_rate': 0.01, 'episodes': 50, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[18/56] discount_factor=0.5, learning_rate=0.01, episodes=50, iterations=100
+{'discount_factor': 0.5, 'learning_rate': 0.01, 'episodes': 50, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[19/56] discount_factor=0.5, learning_rate=0.01, episodes=100, iterations=50
+{'discount_factor': 0.5, 'learning_rate': 0.01, 'episodes': 100, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[20/56] discount_factor=0.5, learning_rate=0.01, episodes=100, iterations=100
+{'discount_factor': 0.5, 'learning_rate': 0.01, 'episodes': 100, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[21/56] discount_factor=0.5, learning_rate=0.01, episodes=500, iterations=50
+{'discount_factor': 0.5, 'learning_rate': 0.01, 'episodes': 500, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[22/56] discount_factor=0.5, learning_rate=0.01, episodes=500, iterations=100
+{'discount_factor': 0.5, 'learning_rate': 0.01, 'episodes': 500, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[23/56] discount_factor=0.5, learning_rate=0.01, episodes=1000, iterations=50
+{'discount_factor': 0.5, 'learning_rate': 0.01, 'episodes': 1000, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[24/56] discount_factor=0.5, learning_rate=0.01, episodes=1000, iterations=100
+{'discount_factor': 0.5, 'learning_rate': 0.01, 'episodes': 1000, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[25/56] discount_factor=0.5, learning_rate=0.01, episodes=5000, iterations=50
+{'discount_factor': 0.5, 'learning_rate': 0.01, 'episodes': 5000, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[26/56] discount_factor=0.5, learning_rate=0.01, episodes=5000, iterations=100
+{'discount_factor': 0.5, 'learning_rate': 0.01, 'episodes': 5000, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[27/56] discount_factor=0.5, learning_rate=0.01, episodes=10000, iterations=50
+{'discount_factor': 0.5, 'learning_rate': 0.01, 'episodes': 10000, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[28/56] discount_factor=0.5, learning_rate=0.01, episodes=10000, iterations=100
+{'discount_factor': 0.5, 'learning_rate': 0.01, 'episodes': 10000, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[29/56] discount_factor=0.9, learning_rate=0.1, episodes=10, iterations=50
+{'discount_factor': 0.9, 'learning_rate': 0.1, 'episodes': 10, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[30/56] discount_factor=0.9, learning_rate=0.1, episodes=10, iterations=100
+{'discount_factor': 0.9, 'learning_rate': 0.1, 'episodes': 10, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[31/56] discount_factor=0.9, learning_rate=0.1, episodes=50, iterations=50
+{'discount_factor': 0.9, 'learning_rate': 0.1, 'episodes': 50, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[32/56] discount_factor=0.9, learning_rate=0.1, episodes=50, iterations=100
+{'discount_factor': 0.9, 'learning_rate': 0.1, 'episodes': 50, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[33/56] discount_factor=0.9, learning_rate=0.1, episodes=100, iterations=50
+{'discount_factor': 0.9, 'learning_rate': 0.1, 'episodes': 100, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[34/56] discount_factor=0.9, learning_rate=0.1, episodes=100, iterations=100
+{'discount_factor': 0.9, 'learning_rate': 0.1, 'episodes': 100, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[35/56] discount_factor=0.9, learning_rate=0.1, episodes=500, iterations=50
+{'discount_factor': 0.9, 'learning_rate': 0.1, 'episodes': 500, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[36/56] discount_factor=0.9, learning_rate=0.1, episodes=500, iterations=100
+{'discount_factor': 0.9, 'learning_rate': 0.1, 'episodes': 500, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[37/56] discount_factor=0.9, learning_rate=0.1, episodes=1000, iterations=50
+{'discount_factor': 0.9, 'learning_rate': 0.1, 'episodes': 1000, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[38/56] discount_factor=0.9, learning_rate=0.1, episodes=1000, iterations=100
+{'discount_factor': 0.9, 'learning_rate': 0.1, 'episodes': 1000, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[39/56] discount_factor=0.9, learning_rate=0.1, episodes=5000, iterations=50
+{'discount_factor': 0.9, 'learning_rate': 0.1, 'episodes': 5000, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[40/56] discount_factor=0.9, learning_rate=0.1, episodes=5000, iterations=100
+{'discount_factor': 0.9, 'learning_rate': 0.1, 'episodes': 5000, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[41/56] discount_factor=0.9, learning_rate=0.1, episodes=10000, iterations=50
+{'discount_factor': 0.9, 'learning_rate': 0.1, 'episodes': 10000, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[42/56] discount_factor=0.9, learning_rate=0.1, episodes=10000, iterations=100
+{'discount_factor': 0.9, 'learning_rate': 0.1, 'episodes': 10000, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[43/56] discount_factor=0.9, learning_rate=0.01, episodes=10, iterations=50
+{'discount_factor': 0.9, 'learning_rate': 0.01, 'episodes': 10, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[44/56] discount_factor=0.9, learning_rate=0.01, episodes=10, iterations=100
+{'discount_factor': 0.9, 'learning_rate': 0.01, 'episodes': 10, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[45/56] discount_factor=0.9, learning_rate=0.01, episodes=50, iterations=50
+{'discount_factor': 0.9, 'learning_rate': 0.01, 'episodes': 50, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[46/56] discount_factor=0.9, learning_rate=0.01, episodes=50, iterations=100
+{'discount_factor': 0.9, 'learning_rate': 0.01, 'episodes': 50, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[47/56] discount_factor=0.9, learning_rate=0.01, episodes=100, iterations=50
+{'discount_factor': 0.9, 'learning_rate': 0.01, 'episodes': 100, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[48/56] discount_factor=0.9, learning_rate=0.01, episodes=100, iterations=100
+{'discount_factor': 0.9, 'learning_rate': 0.01, 'episodes': 100, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[49/56] discount_factor=0.9, learning_rate=0.01, episodes=500, iterations=50
+{'discount_factor': 0.9, 'learning_rate': 0.01, 'episodes': 500, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[50/56] discount_factor=0.9, learning_rate=0.01, episodes=500, iterations=100
+{'discount_factor': 0.9, 'learning_rate': 0.01, 'episodes': 500, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[51/56] discount_factor=0.9, learning_rate=0.01, episodes=1000, iterations=50
+{'discount_factor': 0.9, 'learning_rate': 0.01, 'episodes': 1000, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[52/56] discount_factor=0.9, learning_rate=0.01, episodes=1000, iterations=100
+{'discount_factor': 0.9, 'learning_rate': 0.01, 'episodes': 1000, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[53/56] discount_factor=0.9, learning_rate=0.01, episodes=5000, iterations=50
+{'discount_factor': 0.9, 'learning_rate': 0.01, 'episodes': 5000, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[54/56] discount_factor=0.9, learning_rate=0.01, episodes=5000, iterations=100
+{'discount_factor': 0.9, 'learning_rate': 0.01, 'episodes': 5000, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[55/56] discount_factor=0.9, learning_rate=0.01, episodes=10000, iterations=50
+{'discount_factor': 0.9, 'learning_rate': 0.01, 'episodes': 10000, 'iterations': 50, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[56/56] discount_factor=0.9, learning_rate=0.01, episodes=10000, iterations=100
+{'discount_factor': 0.9, 'learning_rate': 0.01, 'episodes': 10000, 'iterations': 100, 'average_steps': 10000.0, 'average_reward': -10.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
