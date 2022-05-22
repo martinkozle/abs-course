@@ -1,0 +1,18 @@
+[1/6] discount_factor=0.9, learning_rate=0.01, episodes=5, decay=0.01, iterations=50
+{'discount_factor': 0.9, 'learning_rate': 0.01, 'episodes': 5, 'decay': 0.01, 'iterations': 50, 'average_steps': 200.0, 'average_reward': -200.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[2/6] discount_factor=0.9, learning_rate=0.01, episodes=5, decay=0.01, iterations=100
+{'discount_factor': 0.9, 'learning_rate': 0.01, 'episodes': 5, 'decay': 0.01, 'iterations': 100, 'average_steps': 200.0, 'average_reward': -200.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[3/6] discount_factor=0.9, learning_rate=0.01, episodes=10, decay=0.01, iterations=50
+{'discount_factor': 0.9, 'learning_rate': 0.01, 'episodes': 10, 'decay': 0.01, 'iterations': 50, 'average_steps': 200.0, 'average_reward': -200.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[4/6] discount_factor=0.9, learning_rate=0.01, episodes=10, decay=0.01, iterations=100
+{'discount_factor': 0.9, 'learning_rate': 0.01, 'episodes': 10, 'decay': 0.01, 'iterations': 100, 'average_steps': 200.0, 'average_reward': -200.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[5/6] discount_factor=0.9, learning_rate=0.01, episodes=15, decay=0.01, iterations=50
+{'discount_factor': 0.9, 'learning_rate': 0.01, 'episodes': 15, 'decay': 0.01, 'iterations': 50, 'average_steps': 200.0, 'average_reward': -200.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[6/6] discount_factor=0.9, learning_rate=0.01, episodes=15, decay=0.01, iterations=100
+{'discount_factor': 0.9, 'learning_rate': 0.01, 'episodes': 15, 'decay': 0.01, 'iterations': 100, 'average_steps': 200.0, 'average_reward': -200.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

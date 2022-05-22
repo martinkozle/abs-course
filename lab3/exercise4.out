@@ -1,0 +1,14 @@
+Num GPUs Available:  1
+[1/6] discount_factor=0.9, learning_rate=0.01, episodes=5, decay=0.01, iterations=5
+{'discount_factor': 0.9, 'learning_rate': 0.01, 'episodes': 5, 'decay': 0.01, 'iterations': 5, 'average_steps': 644.4, 'average_reward': 320.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[2/6] discount_factor=0.9, learning_rate=0.01, episodes=5, decay=0.01, iterations=10
+{'discount_factor': 0.9, 'learning_rate': 0.01, 'episodes': 5, 'decay': 0.01, 'iterations': 10, 'average_steps': 619.1, 'average_reward': 60.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[3/6] discount_factor=0.9, learning_rate=0.01, episodes=10, decay=0.01, iterations=5
+{'discount_factor': 0.9, 'learning_rate': 0.01, 'episodes': 10, 'decay': 0.01, 'iterations': 5, 'average_steps': 640.6, 'average_reward': 180.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[4/6] discount_factor=0.9, learning_rate=0.01, episodes=10, decay=0.01, iterations=10
+{'discount_factor': 0.9, 'learning_rate': 0.01, 'episodes': 10, 'decay': 0.01, 'iterations': 10, 'average_steps': 623.3, 'average_reward': 60.0}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+[5/6] discount_factor=0.9, learning_rate=0.01, episodes=15, decay=0.01, iterations=5
